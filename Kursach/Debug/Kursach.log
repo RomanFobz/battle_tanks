@@ -1,0 +1,82 @@
+﻿Build started 08.02.2018 13:36:48.
+     1>Project "C:\Users\romas\Desktop\tanchiki\Kursach\Kursach\Kursach.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\PROJECT\base.cpp ..\..\..\PROJECT\bullet.cpp ..\..\..\PROJECT\enemySpawner.cpp ..\..\..\PROJECT\game.cpp ..\..\..\PROJECT\gameObject.cpp ..\..\..\PROJECT\main.cpp ..\..\..\PROJECT\renderSystem.cpp ..\..\..\PROJECT\tank.cpp ..\..\..\PROJECT\tankEnemy.cpp ..\..\..\PROJECT\tankPlayer.cpp ..\..\..\PROJECT\utils.cpp ..\..\..\PROJECT\wall.cpp
+         wall.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+         utils.cpp
+     1>c:\users\romas\desktop\project\utils.cpp(22): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+         tankPlayer.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+         tankEnemy.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+         tank.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\tank.cpp(140): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\tank.cpp(141): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\tank.cpp(145): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\tank.cpp(146): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\tank.cpp(149): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\tank.cpp(150): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\tank.cpp(153): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\tank.cpp(154): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         renderSystem.cpp
+         main.cpp
+         gameObject.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+         game.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\game.cpp(35): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(57): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(63): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(71): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(77): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(87): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(97): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(192): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(193): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\romas\desktop\project\game.cpp(223): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         enemySpawner.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+         bullet.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+         base.cpp
+     1>c:\users\romas\desktop\project\level.h(140): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(146): warning C4309: 'initializing' : truncation of constant value
+     1>c:\users\romas\desktop\project\level.h(152): warning C4309: 'initializing' : truncation of constant value
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\romas\Desktop\tanchiki\Kursach\Debug\Kursach.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\romas\Desktop\tanchiki\Kursach\Debug\Kursach.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\romas\Desktop\tanchiki\Kursach\Debug\Kursach.lib" /MACHINE:X86 Debug\base.obj
+         Debug\bullet.obj
+         Debug\enemySpawner.obj
+         Debug\game.obj
+         Debug\gameObject.obj
+         Debug\main.obj
+         Debug\renderSystem.obj
+         Debug\tank.obj
+         Debug\tankEnemy.obj
+         Debug\tankPlayer.obj
+         Debug\utils.obj
+         Debug\wall.obj
+         Kursach.vcxproj -> C:\Users\romas\Desktop\tanchiki\Kursach\Debug\Kursach.exe
+     1>Done Building Project "C:\Users\romas\Desktop\tanchiki\Kursach\Kursach\Kursach.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.73
